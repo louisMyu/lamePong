@@ -1,0 +1,10 @@
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dvptg.xnb
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\WizardSquare.xnb
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\ball.xnb
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\wall.xnb
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+C:\Users\Louis\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
